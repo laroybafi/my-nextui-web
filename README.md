@@ -1,4 +1,4 @@
-# Next.js & NextUI Template
+# Personal Web Portfolio using Next.js & NextUI
 
 This is a template for creating applications using Next.js 14 (pages directory) and NextUI (v2).
 
